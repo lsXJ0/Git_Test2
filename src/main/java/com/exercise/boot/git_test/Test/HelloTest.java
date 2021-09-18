@@ -13,5 +13,8 @@ public class HelloTest {
         System.out.println("hello git 5 master Test");
         System.out.println("hello git 4 and there is hot-fix");
         System.out.println("hello git 5 and there is hot-fix");
+        System.out.println("hello git 5 and there is hot-fix");
+        System.out.println("hello git 5 and there is hot-fix");
+        System.out.println("hello git 5 and there is hot-fix");
     }
 }
