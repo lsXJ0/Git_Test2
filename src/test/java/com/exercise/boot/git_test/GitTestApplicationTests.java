@@ -8,6 +8,7 @@ class GitTestApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("修改1");
     }
 
 }
