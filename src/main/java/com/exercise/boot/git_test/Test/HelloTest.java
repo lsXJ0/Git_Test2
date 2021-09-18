@@ -9,6 +9,8 @@ public class HelloTest {
         System.out.println("hello git 1");
         System.out.println("hello git 2");
         System.out.println("hello git 3");
+        System.out.println("hello git 4");
+        System.out.println("hello git 5 master Test");
         System.out.println("hello git 4 and there is hot-fix");
     }
 }
